@@ -26,7 +26,7 @@ li {
 }
 
 section {
-    height: 400px;
+    height: 370px;
 }
 
 .bg-red {
@@ -39,4 +39,14 @@ section {
 
 .bg-orange {
     background-color: orange;
+}
+
+.ptb-5 {
+    padding: 5px;
+}
+
+.button-transparent {
+    background-color: transparent;
+    padding: 5px 15px;
+    border-radius: 8px;
 }
