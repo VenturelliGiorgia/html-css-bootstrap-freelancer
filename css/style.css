@@ -13,6 +13,10 @@ li {
 
 }
 
+hr {
+    color: grey;
+}
+
 .link-container {
     display: none;
 }
@@ -27,6 +31,10 @@ li {
 
 section {
     height: 370px;
+}
+
+.text-left {
+    text-align: left;
 }
 
 .bg-red {
@@ -49,4 +57,11 @@ section {
     background-color: transparent;
     padding: 5px 15px;
     border-radius: 8px;
+}
+
+.button-green {
+    background-color: rgb(0 195 157);
+    border-radius: 8px;
+    padding: 8px 15px;
+    border: none;
 }
