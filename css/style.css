@@ -17,6 +17,17 @@ hr {
     color: grey;
 }
 
+footer {
+    padding: 20px;
+}
+
+/****************************************************************
+************************** DA LEVARE ****************************
+*****************************************************************/
+.first-section {
+    height: 300px;
+}
+
 .link-container {
     display: none;
 }
@@ -29,8 +40,8 @@ hr {
     background-color: rgb(0 195 157);
 }
 
-section {
-    height: 370px;
+.bg-blue {
+    background-color: rgb(51 83 112);
 }
 
 .text-left {
@@ -41,7 +52,7 @@ section {
     background-color: red;
 }
 
-.bg-blue {
+.bg-yellow {
     background-color: rgb(230, 214, 69);
 }
 
@@ -64,4 +75,8 @@ section {
     border-radius: 8px;
     padding: 8px 15px;
     border: none;
+}
+
+.color-green {
+    color: rgb(0 195 157);
 }
