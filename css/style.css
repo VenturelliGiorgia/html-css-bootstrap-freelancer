@@ -13,24 +13,31 @@ li {
 
 }
 
-hr {
-    color: grey;
-}
-
-footer {
-    padding: 20px;
-}
-
-/****************************************************************
-************************** DA LEVARE ****************************
-*****************************************************************/
-.first-section {
-    height: 300px;
-}
-
 .link-container {
     display: none;
 }
+
+
+.img-avatar {
+    display: block;
+    width: 125px;
+}
+
+.riga-stella {
+    border: 2px solid white;
+    width: 95px;
+    height: 1px;
+    margin-top: 6px;
+}
+
+.riga-black {
+    border: 2px solid black;
+}
+
+.padding-left-right-1 {
+    padding: 0 1rem;
+}
+
 
 .bg-dark-blue {
     background-color: rgb(39 61 82);
@@ -47,34 +54,8 @@ footer {
 .text-left {
     text-align: left;
 }
-
-.bg-red {
-    background-color: red;
-}
-
-.bg-yellow {
-    background-color: rgb(230, 214, 69);
-}
-
-.bg-orange {
-    background-color: orange;
-}
-
 .ptb-5 {
     padding: 5px;
-}
-
-.button-transparent {
-    background-color: transparent;
-    padding: 5px 15px;
-    border-radius: 8px;
-}
-
-.button-green {
-    background-color: rgb(0 195 157);
-    border-radius: 8px;
-    padding: 8px 15px;
-    border: none;
 }
 
 .color-green {
