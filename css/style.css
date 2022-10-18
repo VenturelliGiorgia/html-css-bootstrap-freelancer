@@ -54,10 +54,22 @@ li {
 .text-left {
     text-align: left;
 }
+
 .ptb-5 {
     padding: 5px;
 }
 
 .color-green {
     color: rgb(0 195 157);
+}
+
+.my-form-control {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+}
+
+textarea.my-form-control {
+    min-height: 100px;
 }
